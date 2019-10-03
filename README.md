@@ -2,7 +2,7 @@
 
 
 
-## Dataset description: ESC50 for Environmental Sound Classification
+## Dataset description:
 
 <img src="esc50.gif" alt="ESC-50 clip preview" title="ESC-50 clip preview" align="right" />
 
@@ -22,6 +22,12 @@ The dataset consists of 5-second-long recordings organized into 50 semantical cl
 | <sub>Insects (flying)</sub> | <sub>Pouring water</sub> | <sub>Brushing teeth</sub> | <sub>Clock alarm</sub> | <sub>Airplane</sub> |
 | <sub>Sheep</sub> | <sub>Toilet flush</sub> | <sub>Snoring</sub> | <sub>Clock tick</sub> | <sub>Fireworks</sub> |
 | <sub>Crow</sub> | <sub>Thunderstorm</sub> | <sub>Drinking, sipping</sub> | <sub>Glass breaking</sub> | <sub>Hand saw</sub> |
+
+The dataset is available at (~600 MB):
+
+**[ESC-50 dataset](https://github.com/karoldvl/ESC-50)**
+
+A detailed description of the dataset is available in the original [paper](http://karol.piczak.com/papers/Piczak2015-ESC-Dataset.pdf)
 
 
 ## Converting sound to RGB picture
